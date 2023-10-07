@@ -4,7 +4,7 @@ LaxmiKunwar/LaxmiKunwar is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm Laxmi Kunwar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+
 <img align="right" alt="coding" width="400" src="https://cdn2.iconfinder.com/data/icons/professions-vivid-vol-2/256/Programmer_Female-1024.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laxmikunwar&label=Profile%20views&color=0e75b6&style=flat" alt="laxmikunwar" /> </p>
