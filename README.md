@@ -9,7 +9,6 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laxmikunwar&label=Profile%20views&color=0e75b6&style=flat" alt="laxmikunwar" /> </p>
 
-- 🔭 I’m currently working on **E-Learning Plarform(AI,ML)**
 
 - 🌱 I’m currently learning **MERN**
 
